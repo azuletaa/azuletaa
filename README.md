@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azuletaa
-- 👀 I’m interested in android, data science, machine learning
-- 🌱 I’m currently learning java, c++, kotlin, c#, python 
+- 👀 I’m interested data science, machine learning, python
+- 🌱 I’m currently learning Django, Tensorflow 
 
 
 <!---
