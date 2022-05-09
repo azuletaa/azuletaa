@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azuletaa
-- 👀 I’m interested data science, machine learning, python
-- 🌱 I’m currently learning Django, Tensorflow 
+- 👀 I’m interested machine learning
+- 🌱 I’m currently learning Python,Django
 
 
 <!---
