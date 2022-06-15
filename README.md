@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azuletaa
 - 👀 I’m interested machine learning
-- 🌱 I’m currently learning Python,Django
+- 🌱 I’m currently learning POOB and HTML 
 
 
 <!---
