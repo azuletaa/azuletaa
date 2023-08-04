@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @azuletaa
-- 👀 I’m interested machine learning
-- 🌱 I’m currently learning POOB and HTML 
+- 👀 I’m interested c++, algortimh & Scala Frameowrk
+- 🌱 I’m currently learning Html, Css, Javascript & C++ sintax
+
 
 
 <!---
